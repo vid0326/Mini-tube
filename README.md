@@ -1,4 +1,4 @@
-# YouTube Clone
+# Mini-tube(Youtube clone)
 
 A full-stack YouTube clone application built with Node.js, Express, React, and Vite. This project replicates core YouTube features including video uploads, channel management, playlists, shorts, real-time interactions, and analytics.
 

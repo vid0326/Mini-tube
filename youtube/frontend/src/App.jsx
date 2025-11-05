@@ -41,7 +41,7 @@ import ManagePlaylist from './pages/ManagePlaylist'
 import UseGetRecommendation from './customHooks/UseGetRecommendation'
 import RevenuePage from './component/RevenuePage'
 
-export const serverUrl = ""
+export const serverUrl = "https://mini-tube.onrender.com"
 
 const ProtectedRoute = ({ userData, children }) => {
   if (!userData) {
